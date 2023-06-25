@@ -1,6 +1,6 @@
 # Projects
 
-In this repository, I have uploaded the code for some of the projects I've made with a Raspberry Pi:
+In this repository, I have uploaded the code and 3D models for some of the projects I've made with a Raspberry Pi:
 
 1. Automatic Desk Fan
 2. Automatic Toothpaste Squeezer
