@@ -7,3 +7,7 @@
 
 I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-3d-printer-kit/). However, you don't need to buy this if you have access to a nearby public library or university with a 3D printer.
 
+# Wiring
+
+1. [Distance Sensor Wiring.pdf](https://github.com/Skilledgamer101/Projects/files/11860400/Distance.Sensor.Wiring.pdf)
+2. [Motor + Motor Driver Wiring](https://www.youtube.com/watch?v=3LBiyBTnt7g&ab_channel=Maker%27sDigest)
