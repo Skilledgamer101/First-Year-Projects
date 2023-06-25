@@ -9,5 +9,5 @@ I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/produ
 
 # Wiring
 
-1. [Distance Sensor Wiring.pdf](https://github.com/Skilledgamer101/Projects/files/11860400/Distance.Sensor.Wiring.pdf)
+1. [Distance Sensor Wiring](https://github.com/Skilledgamer101/Projects/files/11860400/Distance.Sensor.Wiring.pdf)
 2. [Motor + Motor Driver Wiring](https://www.youtube.com/watch?v=3LBiyBTnt7g&ab_channel=Maker%27sDigest)
