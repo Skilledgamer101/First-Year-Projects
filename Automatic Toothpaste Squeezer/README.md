@@ -14,8 +14,8 @@ I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/produ
 
 # Code
 
-Please find necessary code in the [Code] folder.
+Please find necessary code in the [Code](https://github.com/Skilledgamer101/Projects/tree/50367875090a83f53ecafcdc09e762d90cb50446/Automatic%20Toothpaste%20Squeezer/Code) folder.
 
 # 3D Model Files
 
-Please find necessary 3D Model files (*.IPT) in the [3D Models] folder.
+Please find necessary 3D Model files (*.IPT) in the [3D Models](https://github.com/Skilledgamer101/Projects/tree/50367875090a83f53ecafcdc09e762d90cb50446/Automatic%20Toothpaste%20Squeezer/3D%20Models) folder.
