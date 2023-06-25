@@ -14,6 +14,7 @@ For all of the above projects, I used:
 4. [Adafruit Pi T-Cobbler Plus Kit Breakout](https://www.adafruit.com/product/1989)
 5. [Half-Sized Breadboard](https://www.adafruit.com/product/4539)
 6. [Jumper Wires](https://secure.sayal.com/STORE4/prodetails.php?SKU=238896)
+7. [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 
 Additional required materials specific to each project can be found in their respective folders.
 
