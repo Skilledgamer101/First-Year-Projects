@@ -6,4 +6,15 @@ In this repository, I have uploaded the code for some of the projects I've made 
 2. Automatic Toothpaste Squeezer
 3. StreamSwim (swimming accessory)
 
+For all of the above projects, I used:
+
+1. [Raspberry Pi 4 Model B - 4 GB RAM](https://www.adafruit.com/product/4296)
+2. [Raspberry Pi Power Supply](https://www.adafruit.com/product/4298)
+3. [5 Ft Ethernet Cable](https://www.adafruit.com/product/994)
+4. [Adafruit Pi T-Cobbler Plus Kit Breakout](https://www.adafruit.com/product/1989)
+5. [Half-Sized Breadboard](https://www.adafruit.com/product/4539)
+
+Additional required materials specific to each project can be found in their respective folders.
+
 I have also included code for a game I made in PyGame called Flashy Dash.
+
