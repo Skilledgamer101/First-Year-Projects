@@ -4,3 +4,4 @@
 3. Run the file.
 
 *Soundtrack: Geoplex - Prismatic*
+*Inspired by Geometry Dash*
