@@ -16,7 +16,7 @@ I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/produ
 
 # Code
 
-Please find necessary code in the [Code](https://github.com/Skilledgamer101/Projects/tree/eda5c85c7739ee2cfd5552e7436c3e5ae78f68ef/Automatic%20Desk%20Fan/Code) folder.
+Please find necessary code in the [Code](https://github.com/Skilledgamer101/Projects/tree/f364b5da34620a702270168d267fc2a2a7d9c3cd/StreamSwim/Code) folder.
 
 # 3D Model Files
 
