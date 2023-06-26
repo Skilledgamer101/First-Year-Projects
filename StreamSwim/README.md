@@ -5,7 +5,7 @@
 3. [Grove - Buzzer](https://www.seeedstudio.com/Grove-Buzzer.html) **x2**
 4. [Grove Cables (5 pk)](https://www.digikey.ca/en/products/detail/seeed-technology-co.,-ltd/110990031/5482557?gclid=Cj0KCQjwy9-kBhCHARIsAHpBjHiaNRx2dOk0qVUdIzLI-k2W4AvO8_GveCheNkCiPLy0wANoQ0Ej2e4aArNJEALw_wcB)
 
-I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-3d-printer-kit/). However, you don't need to buy this if you have access to a nearby public library or university with a 3D printer.
+I also used a [Trotec 300 Speedy Laser Engraver](https://www.troteclaser.com/en-ca/laser-machines/laser-engravers-speedy-series).
 
 # Wiring
 
