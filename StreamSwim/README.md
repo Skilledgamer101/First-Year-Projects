@@ -18,6 +18,6 @@ I also used a [Original Prusa i3 MK3S+ 3D Printer](https://www.prusa3d.com/produ
 
 Please find necessary code in the [Code](https://github.com/Skilledgamer101/Projects/tree/f364b5da34620a702270168d267fc2a2a7d9c3cd/StreamSwim/Code) folder.
 
-# 3D Model Files
+# Laser Cutting Files
 
-Please find necessary 3D Model files (*.IPT) in the [3D Models](https://github.com/Skilledgamer101/Projects/tree/a338ef0adef88d95d98a4e754e62312acccbad33/Automatic%20Desk%20Fan/3D%20Models) folder.
+Please find necessary laser cutting files (*.PDF) in the [Laser Cutting](https://github.com/Skilledgamer101/Projects/tree/d13d648a29b67aacbd16f8c8316a989e901d7ea3/StreamSwim/Laser%20Cutting) folder.
