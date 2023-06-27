@@ -19,3 +19,7 @@ Please find necessary code in the [Code](https://github.com/Skilledgamer101/Proj
 # 3D Model Files
 
 Please find necessary 3D Model files (*.IPT) in the [3D Models](https://github.com/Skilledgamer101/Projects/tree/a338ef0adef88d95d98a4e754e62312acccbad33/Automatic%20Desk%20Fan/3D%20Models) folder.
+
+# Demo
+
+You can see a demo [here](https://www.linkedin.com/posts/mansoor-lunawadi_raspberrypi-motor-sensor-activity-7079462152192806914-q6F5?utm_source=share&utm_medium=member_desktop)!
