@@ -1,7 +1,7 @@
 # Jobs Notifier
 This program notifies the user if there are new job postings or not. It can be set to run automatically using Windows Task Scheduler (Windows built-in application) or similar software.
 
-### Disclaimer: This code works only for the McMaster official co-op job board website [(OscarPlus)](https://www.oscarplus.mcmaster.ca) as of October 21, 2023.
+### Disclaimer: This code works only for the McMaster official co-op job board website [(OscarPlus)](https://www.oscarplusmcmaster.ca) as of October 21, 2023.
 
 ## How to Use
 
