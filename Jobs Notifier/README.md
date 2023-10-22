@@ -9,5 +9,7 @@ This program notifies the user if there are new job postings or not. It can be s
 `pip install selenium==2.53.6 BeautifulSoup4 ezgmail`
 
 ### 2. Set up EZGmail
-Please follow the instructions on this [link](https://pypi.org/project/EZGmail/).
+Please follow the instructions on this [link](https://pypi.org/project/EZGmail/). Make sure the `credentials.json` and `token.json` file are in the same folder as all of the files in this project.
+
+
 
