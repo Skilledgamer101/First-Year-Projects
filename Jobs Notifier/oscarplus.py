@@ -18,11 +18,6 @@ ENG = (By.CSS_SELECTOR, "a[href = '/myAccount/eng.htm']")
 WORK = (By.CSS_SELECTOR, "a[href = '/myAccount/eng/coop.htm']")
 POSTINGS = (By.CSS_SELECTOR, "a[href = '/myAccount/eng/coop/postings.htm']")
 SPRING = (By.CSS_SELECTOR, "a[href = '#runMultipleSearchesDialog']")
-TEST = (By.CSS_SELECTOR, "select[id = 'savedSearchId']")
-TEST2 = (By.CSS_SELECTOR, "option[value = '994']")
-
-# below 2 options are not used in the code but could be used instead of TEST and TEST2
-
 BOX = (By.CSS_SELECTOR, "input[type = 'checkbox']")
 SEARCH = (By.CSS_SELECTOR, "button[type = 'submit']")
 
@@ -62,9 +57,11 @@ WebDriverWait(browser, 20).until(EC.element_to_be_clickable(MENU)).click()
 
 WebDriverWait(browser, 20).until(EC.element_to_be_clickable(POSTINGS)).click()
 
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(TEST)).click()
+WebDriverWait(browser, 20).until(EC.element_to_be_clickable(SPRING)).click()
 
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(TEST2)).click()
+WebDriverWait(browser, 20).until(EC.element_to_be_clickable(BOX)).click()
+
+WebDriverWait(browser, 20).until(EC.element_to_be_clickable(SEARCH)).click()
 
 page_source = browser.page_source
 soup = BeautifulSoup(page_source, 'lxml')
