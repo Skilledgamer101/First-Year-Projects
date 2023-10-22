@@ -8,7 +8,7 @@ This program notifies the user if there are new job postings or not. It can be s
 
 ## How to Use
 
-### 1. Download all of the files in this folder to a single folder.
+### 1. Download all of the files in this folder to a single folder
 
 ### 2. Install Required Dependencies
 `pip install selenium==2.53.6 BeautifulSoup4 ezgmail lxml`
