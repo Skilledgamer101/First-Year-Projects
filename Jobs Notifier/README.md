@@ -1,4 +1,4 @@
-# Jobs Notifier
+# InternAlert
 This program notifies the user if there are new job postings or not. It can be set to run automatically using Windows Task Scheduler (Windows built-in application) or similar software.
 
 ### Disclaimers: 
