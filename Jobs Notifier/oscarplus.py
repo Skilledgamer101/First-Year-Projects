@@ -66,6 +66,11 @@ WebDriverWait(browser, 20).until(EC.element_to_be_clickable(SEARCH)).click()
 page_source = browser.page_source
 soup = BeautifulSoup(page_source, 'lxml')
 all = soup.select('td')
+if all == None:
+    message = "No OscarPlus jobs exist in the search"
+    ezgmail.send(recipient, 'No OscarPlus jobs exist in the search', message)
+    print("\n\nNo OscarPlus jobs exist in the search\n\n")
+    exit(0)
 elems = soup.select('td[data-totitle]')
 durationRegex = re.compile(r'\d{1,}-month')
 # first group in deadlineRegex matches DATE and second matches TIME (w/o unnecessary spaces) 
