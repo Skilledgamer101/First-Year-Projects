@@ -51,7 +51,7 @@ class Player:
 
         draw_hero()
 
-class Powerup:
+class Powerup(Player):
     def __init__(self, x1: int, x2: int, x3: int, x4: int, x5: int, x6: int, y1: int, y2: int, y3: int, y4: int, y5: int, y6: int, vel: int, length: int, width: int, color: tuple):
         self.x1 = x1
         self.x2 = x2
