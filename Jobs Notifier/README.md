@@ -16,7 +16,7 @@ Please follow the instructions on this [link](https://pypi.org/project/EZGmail/)
 ### Run the python file `oscarplus.py` or `ssc.py`
 Run `oscarplus.py` if you are looking for co-op jobs, and `ssc.py` for jobs from Student Success Centre.
 The program will ask you to enter your:
-1. The full path to the chromerdriver ('path-to-where-you-downloaded-this-repository/chromedriver.exe')
+1. Full path to the chromerdriver ('path-to-where-you-downloaded-this-repository/chromedriver.exe')
 1. McMaster Email Address
 2. Password
 3. Email address to which you want new jobs to be sent
