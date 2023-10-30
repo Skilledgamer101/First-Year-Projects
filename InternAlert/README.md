@@ -4,7 +4,7 @@ This program notifies the user if there are new job postings or not. It can be s
 ### Disclaimers: 
 1. This code works only for the McMaster official co-op/SSC job board website [(OscarPlus)](https://www.oscarplusmcmaster.ca) as of October 21, 2023. 
 2. You will require Google Chrome Version 117 as it is compatible with the chromedriver in this repository. Newer versions of Chrome may be supported with newer chromedrivers, which can be found [here](https://chromedriver.chromium.org/downloads/version-selection).
-3. You need to have at least one saved search in the co-op board or the Student Success Centre. This program looks for new jobs in the top-most saved search (i.e., the first saved search made).
+3. You need to have at least one saved search in the co-op board or the Student Success Centre. This program looks for new jobs in the top-most saved search (i.e., the most recent saved search made).
 
 ## How to Use
 
