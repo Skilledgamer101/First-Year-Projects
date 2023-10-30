@@ -21,5 +21,5 @@ For all of the above projects, I used:
 
 Additional required materials specific to each project can be found in their respective folders.
 
-I have also included code for a game I made in PyGame called Flashy Dash, and a web scraper for the McMaster job board (OscarPlus).
+I have also included code for a game I made in PyGame called Flashy Dash, and a web scraper for the McMaster job board (InternAlert).
 
