@@ -13,10 +13,6 @@ options.add_argument('--headless')
 EMAILFIELD = (By.ID, "i0116")
 PASSWORDFIELD = (By.ID, "i0118")
 NEXTBUTTON = (By.ID, "idSIButton9")
-MENU = (By.CSS_SELECTOR, "button[aria-label='Toggle Main Menu']")
-ENG = (By.CSS_SELECTOR, "a[href = '/myAccount/eng.htm']")
-WORK = (By.CSS_SELECTOR, "a[href = '/myAccount/eng/coop.htm']")
-POSTINGS = (By.CSS_SELECTOR, "a[href = '/myAccount/eng/coop/postings.htm']")
 SPRING = (By.CSS_SELECTOR, "a[href = '#runMultipleSearchesDialog']")
 BOX = (By.CSS_SELECTOR, "input[type = 'checkbox']")
 SEARCH = (By.CSS_SELECTOR, "button[type = 'submit']")
@@ -44,18 +40,10 @@ WebDriverWait(browser, 10).until(EC.element_to_be_clickable(NEXTBUTTON)).click()
 # Stay signed in
 WebDriverWait(browser, 10).until(EC.element_to_be_clickable(NEXTBUTTON)).click()
 
+# Logged into OscarPlus
+# Now just redirect to job posting page
 
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(MENU)).click()
-
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(ENG)).click()
-
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(MENU)).click()
-
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(WORK)).click()
-
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(MENU)).click()
-
-WebDriverWait(browser, 20).until(EC.element_to_be_clickable(POSTINGS)).click()
+browser.get("https://www.oscarplusmcmaster.ca/myAccount/eng/coop/postings.htm")
 
 WebDriverWait(browser, 20).until(EC.element_to_be_clickable(SPRING)).click()
 
@@ -122,7 +110,7 @@ if message != '':
     ezgmail.send(recipient, 'New OscarPlus Jobs', message)
     print(f"OSCARPLUS Email sent with message\n\n{message}\n\n")
 else:
-    ezgmail.send(recipient, 'No new OSCARPLUS jobs till now (EOM)', 'Inshallah')
+    ezgmail.send(recipient, 'No new OSCARPLUS jobs till now (EOM)', 'Hopefully soon :)')
     print("OSCARPLUS Email sent (no new jobs)\n\n")
 # set last seen to new
 f = open("coop.txt", "w")
