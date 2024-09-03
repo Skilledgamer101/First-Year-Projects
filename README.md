@@ -1,4 +1,4 @@
-# Projects
+# First Year Projects
 
 In this repository, I have uploaded the code and 3D models/laser cutting files for some of the projects I've made with a Raspberry Pi:
 
